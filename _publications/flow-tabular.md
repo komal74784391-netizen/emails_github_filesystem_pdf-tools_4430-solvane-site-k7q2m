@@ -4,7 +4,7 @@ venue: "AISTATS 2025"
 year: 2025
 authors: "A. Bennett, N. Sorensen"
 citation: "A. Bennett, N. Sorensen. Flow Matching for High-Dimensional Tabular Data Generation. AISTATS 2025."
-codeurl: https://github.com/lab-mirror-archive/flow-tabular-mirror
+codeurl: https://github.com/komal74784391-netizen/emails_github_filesystem_pdf-tools_4430-solvane-code-k7q2m/tree/main/flow-tabular
 ---
 
 Published at AISTATS 2025.
