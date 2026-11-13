@@ -1,0 +1,8 @@
+<article class="archive-item">
+  <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+  <p class="archive-meta">{{ post.venue }}{% if post.year %} &middot; {{ post.year }}{% endif %}</p>
+  <p class="archive-authors">{{ post.authors }}</p>
+  {% if post.codeurl %}
+  <a class="code-link" href="{{ post.codeurl }}">Code</a>
+  {% endif %}
+</article>
